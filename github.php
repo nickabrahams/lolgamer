@@ -1,5 +1,3 @@
 <?php
 
-echo "Hallooo";
-
-echo "gangster";
+echo "real gangster shit";
